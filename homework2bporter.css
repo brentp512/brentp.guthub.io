@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Raleway:400,600');
+
+/* ----------------------------------------
+Base Styles
+------------------------------------------- */
+body {
+
+}
+
+/* Fix for responsive images */
+img {
+	max-width: 100%;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+nav a {
+	color: #7B98AA;
+	font-weight: 600;
+	font-size: 16px;
+	text-decoration: none;
+	position: center;
+	text-align: center;
+	letter-spacing: 2px;
+	word-spacing: 40px;
+}
+h1 a {
+	font-weight: 600;
+	font-size: 37px;
+	text-align: center;
+	text-decoration: none;
+}
+h3 {
+	font-weight: 600px;
+font-size: 18px;
+padding-left: 8px;
+}
+h2 {
+	color: #44545E;
+	font-weight: 600;
+	font-size: 23px;
+	padding-left: 8;
+}
+p {
+	font: lato;
+	font-size: 400px;
+	font-size: 15px;
+	text-align: center;
+}
+h4.images {
+position: absolute;
+left: auto;
+width: 100px;
+height: 120px;
+}
+
+}
+li a {
+	position: absolute;
+	color: #7B98AA;
+	font-size: 15px;
+	font-weight: 400px;
+	text-decoration: none;
+	text-align: left;
+	font-family: sans-serif;
+	left: auto;
+}
+footer {
+	text-decoration: none;
+	text-align: center;
+	background-color: lightblue;
+}
+P a {
+	text-decoration: none;
+	color: #7B98AA;
+	font-size: 15px;
+	font-weight: 400px;
+}
